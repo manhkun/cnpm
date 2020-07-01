@@ -1,0 +1,121 @@
+[    
+    {
+        "question": "Một trong các nguyên tắc thiết kế giao diện người dùng là không nên để người dùng phải nhớ quá nhiều thứ. Mục đích: để thao tác của người dùng nhanh hơn",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Kỹ thuật phân tích hướng đối tượng có thể được sử dụng để phân tích hành động của người dùng khi thực hiện nhiệm vụ của họ",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Khả năng hiển thị của máy tính quyết định chính cho thứ tự hoàn thành các bước của thiết kế giao diện người dùng",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Một cách để định nghĩa các hành động của người dùng là thực hiện phân tích cú pháp kịch bản người dùng",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Giao diện là nhân tố ảnh hưởng đến hiệu năng phần mềm",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Kiểu giao diện nào cho phép lựa chọn lệnh từ một thực đơn",
+        "choice1": "Giao diện dòng lệnh",
+        "choice2": "Giao diện nhận dạng tiếng nói",
+        "choice3": "Giao diện người dùng đồ họa",
+        "answer": 3
+    },
+
+    {
+        "question": "Hoạt động nào không thuộc thiết kế giao diện người dùng",
+        "choice1": "Phân tích người dùng",
+        "choice2": "Ước lượng chi phí phát triển phần mềm",
+        "choice3": "Xây dựng giao diện",
+        "answer": 2
+    },
+    {
+        "question": "Hệ thống phát triển giao diện người dùng (công cụ hỗ trợ xây dựng giao diện người dùng) cung cấp nhiều cơ chế để xây dựng bản mẫu giao diện, bao gồm:",
+        "choice1": "Sinh mã nguồn",
+        "choice2": "Tính năng vẽ",
+        "choice3": "Thẩm định đầu vào của giao diện",
+        "answer": 1
+    },
+    {
+        "question": "Bảng hỏi về khả năng sử dụng của giao diện người dùng là hữu ích nhất cho nhà thiết kế giao diện khi nó được trả lời bởi …",
+        "choice1": "Khách hàng (customers)",
+        "choice2": "Lập trình viên giàu kinh nghiệm",
+        "choice3": "Người dùng cuối (end users)",
+        "answer": 3
+    },
+    {
+        "question": "Nhiều độ đo về khả năng sử dụng giao diện được thu thập khi quan sát người dùng tương tác với phần mềm, bao gồm:",
+        "choice1": "Khi xây dựng các thông báo cho giao diện, số lượng thông báo càng nhiều thì càng tốt.",
+        "choice2": "Để thông tin hiển thị là chính xác, trực quan và dễ cài đặt, nên sử dụng kiểu hiển thị bằng văn bản.",
+        "choice3": "Khi thiết kế giao diện, đối với những công việc xử lý mất nhiều thời gian thì hệ thống phải chứng tỏ với người dùng rằng hệ thống đang hoạt động",
+        "answer": 3
+    },
+    {
+        "question": "Nguyên tắc thiết kế giao diện nào sau đây làm giảm tải bộ nhớ của người dung?",
+        "choice1": "Định nghĩa phím tắt trực quan",
+        "choice2": "Thể hiện thông tin theo cách tiến bộ",
+        "choice3": "Cung cấp trợ giúp trực tuyến",
+        "choice4": "Đáp án 1 và 2",
+        "answer": 4
+    },
+    {
+        "question": "Các cách tiếp cận có thể hữu ích cho việc phân tích nhiệm vụ của người dùng gồm:",
+        "choice1": "Quan sát người dùng thực hiện nhiệm vụ của họ bằng tay (manually)",
+        "choice2": "Nghiên cứu các giải pháp dựa trên máy tính đã có (ví dụ, bản mẫu)",
+        "choice3": "Đáp án 1 và 2",
+        "choice4": "Nhờ lập trình viên có kinh nghiệm hỗ trợ",
+        "answer": 3
+    },
+    {
+        "question": "Nhiều độ đo về khả năng sử dụng giao diện được thu thập khi quan sát người dùng tương tác với phần mềm, bao gồm:",
+        "choice1": "Số lượng lỗi trong thao tác của người dùng",
+        "choice2": "Tính tin cậy của phần mềm",
+        "choice3": "Thời gian mà người dùng tiêu tốn vào việc tra cứu trợ giúp",
+        "choice4": "Đáp án 1 và 3",
+        "answer": 4
+    },
+    {
+        "question": "Mô tả nào dưới đây là đúng về hoạt động thiết kế giao diện",
+        "choice1": "Bản mẫu của giao diện có thể được xây dựng khi mô tả kịch bản người dùng",
+        "choice2": "Thiết kế giao diện nên hướng người dùng",
+        "choice3": "Thiết kế giao diện dựa trên tài liệu đặc tả yêu cầu",
+        "choice4": "Cả 3",
+        "answer": 4
+    },
+    {
+        "question": "Thiết kế giao diện là quan trọng bởi vì:",
+        "choice1": "Nó là hoạt động khó khăn nhất trong quy trình sản xuất phần mềm",
+        "choice2": "Người dùng đánh giá chất lượng phần mềm thông qua giao diện",
+        "choice3": "Giao diện là phương tiện để người dùng thực hiện các tính năng của phần mềm",
+        "choice4": "Cả 2 và 3",
+        "answer": 4
+    },
+    {
+        "question": "Điều nào là đúng khi nhận xét về giao diện kiểu tương tác dòng lệnh là:",
+        "choice1": "Nhược điểm: đòi hỏi người dùng phải nhớ cú pháp câu lệnh",
+        "choice2": "Ưu điểm: tốc độ tương tác của người dùng",
+        "choice3": "Cả 1 và 2",
+        "choice4": "Ưu điểm: dễ dùng với bất kỳ người dùng nào",
+        "answer": 3
+    }
+]

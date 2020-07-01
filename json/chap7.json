@@ -1,0 +1,71 @@
+[    
+    {
+        "question": "Một mô hình là _____.",
+        "choice1": "không cần thiết khi các thành viên đội đã hiểu được các công việc của họ",
+        "choice2": "phải biểu diễn cả cấu trúc và hành vi",
+        "choice3": "một sự đơn giản hóa của thế giới thực",
+        "choice4": "là một bản nháp để tạo ra kế hoạch chi tiết",
+        "answer": 3
+    },
+
+    {
+        "question": "Mô hình hóa hành vi chỉ được sử dụng để phân tích các hệ thống thời gian thực.",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Trạng thái của một đối tượng là ____.",
+        "choice1": "được định nghĩa bởi thuộc tính “trạng thái” hoặc tập các thuộc tính",
+        "choice2": "được xác định bởi các giá trị thuộc tính và các mối quan hệ của đối tượng",
+        "choice3": "thường không bị thay đổi theo thời gian",
+        "choice4": "điều kiện tồn tại của đối tượng",
+        "answer": 2
+    },
+
+    {
+        "question": "Biểu đồ ca sử dụng được dùng để mô hình hóa hệ thống từ ____.",
+        "choice1": "góc nhìn tương tác",
+        "choice2": "góc nhìn ngữ cạnh",
+        "choice3": "góc nhìn cấu trúc",
+        "choice4": "góc nhìn hành vi",
+        "answer": 1
+    },
+
+    {
+        "question": "Biểu đồ tương tác UML được dùng để mô hình hóa hệ thống từ ____.",
+        "choice1": "góc nhìn hành vi",
+        "choice2": "góc nhìn ngữ cạnh",
+        "choice3": "góc nhìn cấu trúc",
+        "choice4": "góc nhìn tương tác",
+        "answer": 1
+    },
+
+    {
+        "question": "Biểu đồ hoạt động UML cho phép biểu diễn các phần tử nào của mô hình phân tích?",
+        "choice1": "Các phần tử dựa vào dòng (flow)",
+        "choice2": "Các phần tử dựa vào lớp (class)",
+        "choice3": "Các phần tử hành vi (behavior)",
+        "choice4": "Các phần tử dựa vào kịch bản (scenario)",
+        "answer": 4
+    },
+
+    {
+        "question": "Biểu đồ chuyển trạng thái _____.",
+        "choice1": "biểu diễn các mối quan hệ giữa các đối tượng",
+        "choice2": "biểu diễn các chức năng để chuyển tiếp dòng dữ liệu",
+        "choice3": "cho biết các phản ứng của hệ thống với các sự kiện bên ngoài",
+        "choice4": "cho biết cách các dữ liệu được chuyển tiếp trong hệ thống",
+        "answer": 3
+    },
+
+    {
+        "question": "Các mô hình tốt nhất được kết nối với _____?",
+        "choice1": "Mã Java-script",
+        "choice2": "Thực tế",
+        "choice3": "C ++",
+        "choice4": "Các vấn đề liên quan đến nhà phát triển hướng đối tượng",
+        "answer": 2
+    }
+]

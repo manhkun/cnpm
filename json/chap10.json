@@ -1,0 +1,73 @@
+[    
+    {
+        "question": "ERM (Entity relation model) là một phần của DFD (data flow diagram)? ",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Với phương pháp thiết kế hướng đối tượng, lớp đối tượng được xác định trong giai đoạn nào?",
+        "choice1": "Phân tích",
+        "choice2": "Lấy yêu cầu",
+        "choice3": "Thiết kế",
+        "choice4": "Cả 1 và 3",
+        "answer": 4
+    },
+
+    {
+        "question": "Một số lớp có được trong giai đoạn phân tích có thể được lược bỏ trong giai đoạn thiết kế",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Biểu đồ nào của UML thể hiện sự tương tác giữa các đối tượng theo thời gian?",
+        "choice1": "Biểu đồ tuần tự",
+        "choice2": "Biểu đồ đối tượng",
+        "choice3": "Biểu đồ ca sử dụng",
+        "choice4": "Biểu đồ lớp",
+        "answer": 1
+    },
+
+    {
+        "question": "Trong thiết kế theo phương pháp cấu trúc, thiết kế xử lý được dựa trên …",
+        "choice1": "Mô hình thực thể - quan hệ",
+        "choice2": "Biểu đồ dòng dữ liệu",
+        "choice3": "Biểu đồ cấu trúc",
+        "choice4": "Biểu đồ dòng dữ liệu",
+        "answer": 3
+    },
+    {
+        "question": "Trong thiết kế theo phương pháp cấu trúc, tương tác giữa các chương trình con (subprogram) được thể hiện trong …",
+        "choice1": "Biểu đồ dòng dữ liệu vật lý (physical DFD)",
+        "choice2": "Biểu đồ cấu trúc",
+        "choice3": "Biểu đồ dòng dữ liệu logic (logical DFD)",
+        "answer": 2
+    },
+    {
+        "question": "Khi ánh xạ các lớp đối tượng vào cơ sở dữ liệu quan hệ, mối quan hệ nhiều-nhiều sẽ được chuyển thành …",
+        "choice1": "Một bảng",
+        "choice2": "Không có bảng nào",
+        "choice3": "Hai bảng",
+        "choice4": "Nhiều hơn hai bảng",
+        "answer": 1
+    },
+    {
+        "question": "Trong phân tích và thiết kế hướng đối tượng, các lớp đối tượng được xác định bằng cách …",
+        "choice1": "Phân tích theo khía cạnh ngữ pháp mô tả hệ thống (lớp đối tượng và thuộc tính thường là các danh từ)",
+        "choice2": "Xem xét các đối tượng trong miền ứng dụng",
+        "choice3": "Phân tích các hoạt cảnh sử dụng để xác định các lớp đối tượng",
+        "choice4": "Cả 3 đáp án trên",
+        "answer": 4
+    },
+    {
+        "question": "Thông thường, biểu đồ nào sau đây sẽ được sử dụng cùng với DFD trong phương pháp cấu trúc?",
+        "choice1": "Biểu đồ thực thể - quan hệ",
+        "choice2": "Biểu đồ tuần tự",
+        "choice3": "Biểu đồ logic",
+        "choice4": "Biểu đồ lớp",
+        "answer": 1
+    }
+]

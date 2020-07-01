@@ -1,0 +1,76 @@
+[    {
+        "question": "Kiến trúc phần mềm nâng cao độ chính xác của việc dự đoán chi phí và thời gian xây dựng hệ thống",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Loại cấu trúc nào thể hiện mối quan hệ giữa các đơn vị mã nguồn? ",
+        "choice1": "Cấu trúc mô đun",
+        "choice2": "Cấu trúc thành phần – kết nối",
+        "choice3": "Cấu trúc phân phối",
+        "choice4": "{T1} và {T2} đúng",
+        "answer": 1
+    },
+
+    {
+        "question": "Loại cấu trúc thể hiện các thành phần và sự tương tác giữa các thành phần trong thời gian chạy?",
+        "choice1": "Cấu trúc mô đun",
+        "choice2": "Cấu trúc thành phần – kết nối",
+        "choice3": "Cấu trúc phân phối",
+        "answer": 2
+    },
+
+    {
+        "question": "Để xem xét khả năng xử lý song song các hoạt động của hệ thống, cấu trúc nào sẽ được tham khảo?",
+        "choice1": "{T2} và {T3}",
+        "choice2": "Cấu trúc phân phối",
+        "choice3": "Cấu trúc thành phần – kết nối",
+        "choice4": "Cấu trúc mô đun",
+        "answer": 1
+    },
+
+    {
+        "question": "Thuộc tính chất lượng được quan tâm trong giai đoạn nào của quá trình phát triển phần mềm?",
+        "choice1": "Thiết kế chi tiết",
+        "choice2": "Thiết kế kiến trúc",
+        "choice3": "Phân tích yêu cầu",
+        "choice4": "Trong suốt quá trình phát triển",
+        "answer": 4
+    },
+
+    {
+        "question": "Khi thiết kế kiến trúc của phần mềm, kiến trúc sư phần mềm sẽ",
+        "choice1": "Cố gắng tối đa hóa các tương tác giữa các thành phần",
+        "choice2": "Không quan tâm đến tương tác giữa các thành phần",
+        "choice3": "Cố gắng tối thiểu hóa các tương tác giữa các thành phần",
+        "choice4": "Tùy ứng dụng, có thể tối thiểu hoặc tối đa hóa các tương tác",
+        "answer": 3
+    },
+
+    {
+        "question": "Trong thiết kế kiến trúc, sự kết dính (cohesion) được hiểu là",
+        "choice1": "Các thành phần có nhiều tương tác với nhau",
+        "choice2": "Các thành phần phải cùng được thực thi",
+        "choice3": "{T1} và {T2}",
+        "choice4": "Các chức năng trong cùng thành phần có liên quan chặt chẽ",
+        "answer": 4
+    },
+
+    {
+        "question": "Chọn phát biểu đúng:",
+        "choice1": "Yêu cầu phi chức năng có ảnh hưởng đến việc thiết kế kiến trúc phần mềm",
+        "choice2": "Yêu cầu chức năng không ảnh hưởng đến việc thiết kế kiến trúc phần mềm",
+        "choice3": "Yêu cầu chức năng có ảnh hưởng đến việc thiết kế kiến trúc phần mềm; yêu cầu phi chức năng không ảnh hưởng đến việc thiết kế kiến trúc phần mềm",
+        "choice4": "Không có phát biểu nào ở trên là đúng",
+        "answer": 1
+    },
+
+    {
+        "question": "Kiểu kiến trúc phân lớp là một dạng đặc biệt của kiểu client-server",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    }
+]

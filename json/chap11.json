@@ -1,0 +1,119 @@
+[    
+    {
+        "question": "Phần mềm tốt có khả năng tái sử dụng cao",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Chuẩn viết mã nguồn đẹp là do ngôn ngữ quy định",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Lập trình viên cần viết chú thích cho tất cả các biến được sử dụng",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Việc xử lý ngoại lệ là một trong các cách sử dụng cấu trúc an toàn",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Trong phần chú thích cho các Hàm, lập trình viên cần mô tả:",
+        "choice1": "Quyền truy cập của hàm",
+        "choice2": "Tác giả (author)",
+        "choice3": "Các giá trị đầu vào",
+        "answer": 3
+    },
+
+    {
+        "question": "Phương pháp viết mã nguồn để tái sử dụng:",
+        "choice1": "Tạo thư viện phần mềm",
+        "choice2": "Lập trình chung (generic programming)",
+        "choice3": "Phần mềm sinh mã tự động (generators)",
+        "answer": 1
+    },
+
+    {
+        "question": "Trong phần chú thích cho các tệp tin, lập trình viên cần mô tả:",
+        "choice1": "Tác giả - người tạo tệp tin (author)",
+        "choice2": "Bản quyền (copyright)",
+        "choice3": "Mục đích của tệp tin",
+        "choice4": "Cả 3 đáp án trên",
+        "answer": 4
+    },
+
+    {
+        "question": "Trong phần chú thích cho các Lớp đối tượng, lập trình viên cần mô tả:",
+        "choice1": "Tên các gói thư viện mà Lớp gọi tới",
+        "choice2": "Gói (package) chứa Lớp đối tượng đó",
+        "choice3": "Đáp án 2,3 và 4",
+        "choice4": "Phân loại (category) của Lớp đối tượng ",
+        "answer": 3
+    },
+
+    {
+        "question": "Ý nghĩa của tái sử dụng mã nguồn là:",
+        "choice1": "Tránh trường hợp “Phát minh lại bánh xe”",
+        "choice2": "Đảm bảo các chức năng đã được thẩm định trước",
+        "choice3": "Tiết kiệm thời gian cài đặt phần mềm",
+        "choice4": "Cả 3 đáp án trên",
+        "answer": 4
+    },
+
+    {
+        "question": "Đặc điểm của phần mềm để tái sử dụng:",
+        "choice1": "Phân chia mô-đun",
+        "choice2": "Phân chia các thành phần rõ ràng",
+        "choice3": "Đáp án 2 và 4",
+        "choice4": "Có tính đóng gói",
+        "answer": 3
+    },
+
+    {
+        "question": "Đối tượng cần sử dụng các công cụ quản lý phiên bản mã nguồn",
+        "choice1": "Cá nhân",
+        "choice2": "Dự án phần mềm có từ hai thành viên trở lên",
+        "choice3": "Tài liệu phần mềm",
+        "choice4": "Cả 1 và 2",
+        "answer": 4
+    }
+    ,
+
+    {
+        "question": "Lệnh nào được sử dụng trong quản lý phiên bản mã nguồn",
+        "choice1": "Check in",
+        "choice2": "Upgrade",
+        "choice3": "Sort",
+        "choice4": "Cả 1 và 2",
+        "answer": 4
+    }
+    ,
+
+    {
+        "question": "Đâu là công cụ quản lý phiên bản mã nguồn đã và đang được sử dụng:",
+        "choice1": "Cả 2 và 3",
+        "choice2": "CVS",
+        "choice3": "Mercurial",
+        "choice4": "SVM",
+        "answer": 1
+    },
+
+    {
+        "question": "Các phương pháp gỡ lỗi bao gồm:",
+        "choice1": "Sử dụng các Debugger",
+        "choice2": "Logging",
+        "choice3": "Footprinting",
+        "choice4": "Cả 1 và 2",
+        "answer": 4
+    }
+]

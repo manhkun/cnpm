@@ -1,0 +1,72 @@
+[    
+    {
+        "question": "Trong bước thẩm định yêu cầu, mô hình yêu cầu được kiểm duyệt chỉ với một mục đích đảm bảo tính khả thi kỹ thuật:",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Kết quả của khâu kỹ nghệ yêu cầu là một mô hình phân tích xác định (các) miền vấn đề nào sau đây?",
+        "choice1": "Thông tin",
+        "choice2": "Chức năng",
+        "choice3": "Hành vi",
+        "choice4": "Tất cả các phương án",
+        "answer": 4
+    },
+
+    {
+        "question": "Trong nhiều trường hợp không nhất thiết phải tạo ra biểu diễn đồ họa cho một kịch bản sử dụng:",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Trong đàm phán win-win, nhu cầu của khách hàng được đáp ứng ngay cả khi nhu cầu của nhà phát triển có thể không được đáp ứng.",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Kỹ sư phần mềm cộng tác với khách hàng để xác định điều nào sau đây?",
+        "choice1": "Các đặc tính phần mềm quan trọng",
+        "choice2": "Nghiên cứu khả thi",
+        "choice3": "Đầu vào và đầu ra hệ thống",
+        "choice4": "Tất cả các phương án được đưa ra",
+        "answer": 4
+    },
+
+    {
+        "question": "Kỹ nghệ yêu cầu là quy trình chung (generic process) và không thay đổi theo từng dự án.",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Cách tốt nhất để tiến hành kiểm duyệt yêu cầu là :",
+        "choice1": "kiểm tra mô hình hệ thống để tìm ra lỗi",
+        "choice2": "sử dụng một danh sách các câu hỏi để kiểm duyệt từng yêu cầu",
+        "choice3": "chuyển cho khách hàng để tiến hành kiểm duyệt",
+        "choice4": "chuyển cho đội thiết kế để xác định các vấn đề phát sinh",
+        "answer": 2
+    },
+
+    {
+        "question": "Kỹ thuật nào sau đây không được dùng cho thu thập yêu cầu?",
+        "choice1": "Sinh ca kiểm thử",
+        "choice2": "Quan sát",
+        "choice3": "Sử dụng bản mẫu",
+        "choice4": "Phỏng vấn",
+        "answer": 1
+    },
+
+    {
+        "question": "Trong các mô hình quy trình linh hoạt, các hoạt động kỹ nghệ yêu cầu và thiết kế được xen kẽ nhau.",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    }
+]

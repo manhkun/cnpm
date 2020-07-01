@@ -1,0 +1,104 @@
+[
+    {
+        "question": "Phần mềm gồm:",
+        "choice1": "Chương trình máy tính",
+        "choice2": "Cấu trúc dữ liệu (ngoài và trong)",
+        "choice3": "Tài liệu",
+        "choice4": "{T1}, {T2}, và {T3}",
+        "answer": 4
+    },
+
+    {      
+        "question": "Chọn phát biểu đúng nhất dựa trên những phát biểu sau đây:",
+        "choice1": "{T1}, {T2}, và {T3}",
+        "choice2": "Phần mềm là sản phẩm được các kỹ sư phần mềm thiết kế và xây dựng",
+        "choice3": "Phần mềm là một phần tử logic",
+        "choice4": "Phần mềm là một tập các ứng dụng được xây dựng bởi các kỹ sư phần mềm",
+        "answer": 1
+    },
+
+    {
+        "question": "Chọn phát biểu đúng nhất về hệ thống thông tin (HTTT):",
+        "choice1": "HTTT là về phần cứng và cơ sở hạ tầng mạng truyền thông.",
+        "choice2": "HTTT gồm phần cứng và cơ sở hạ tầng mạng truyền thông, phần mềm, dữ liệu, con người và các quy trình đảm bảo HTTT được sử dụng hiệu quả và có khả năng bảo trì.",
+        "choice3": "HTTT chính là tên gọi khác của phần mềm.",
+        "choice4": "HTTT là một thành phần quan trọng của phần mềm",
+        "answer": 2
+    },
+
+    {
+        "question": "Chọn phát biểu đúng nhất về mối quan hệ giữa phần mềm và hệ thống thông tin (HTTT):",
+        "choice1": "HTTT là về phần cứng và cơ sở hạ tầng mạng truyền thông. Phần mềm được xây dựng trên nền tảng của HTTT",
+        "choice2": "Hai khái niệm này có cùng ý nghĩa",
+        "choice3": "Phần mềm là một thành phần quan trọng của HTTT",
+        "choice4": "HTTT là một thành phần quan trọng của phần mềm",
+        "answer": 3
+    },
+
+    {
+        "question": "Đâu là đặc trưng của một sản phẩm phần mềm?",
+        "choice1": "không được phát triển theo khuôn mẫu có sẵn",
+        "choice2": "không bị thoái hóa như phần cứng và các thiết bị vật lý khác",
+        "choice3": "phức tạp, vô hình, được phát triển theo nhóm và thường xuyên bị thay đổi",
+        "choice4": "{T1}, {T2}, và {T3}",
+        "answer": 4 
+    },
+
+    {
+        "question": "Các bộ biên dịch (Compilers) và các hệ điều hành thuộc loại phần mềm nào?",
+        "choice1": "Phần mềm ứng dụng",
+        "choice2": "Phần mềm tiện ích",
+        "choice3": "Phần mềm hệ thống",
+        "choice4": "Phần mềm khoa học kỹ thuật",
+        "answer": 3
+    },
+
+    {
+        "question": "CASE viết tắt của từ gì?",
+        "choice1": "Component Aided Software Engineering",
+        "choice2": "Computer Analysis Software Engineering",
+        "choice3": "Computer Adviced Software Engineering",
+        "choice4": "Computer Aided Software Engineering",
+        "answer": 4
+    },
+
+    {
+        "question": "Độ đo nào phản ánh khả năng dễ học để sử dụng hệ thống phần mềm?",
+        "choice1": "Đầy đủ chức năng",
+        "choice2": "Dễ sử dụng",
+        "choice3": "Tin cậy",
+        "choice4": "Dễ bảo trì",
+        "answer": 2
+    },
+
+    {
+        "question": "Độ đo nào phản ánh khả năng sửa lỗi và phục hồi lỗi của phần mềm?",
+        "choice1": "Độ tin cậy",
+        "choice2": "Dễ sử dụng",
+        "choice3": "Dễ bảo trì",
+        "choice4": "Tính hiệu quả",
+        "answer": 1
+    },
+
+    {
+        "question": "Độ đo nào phản ánh khả năng thay đổi/nâng cấp của hệ thống phần mềm?",
+        "choice1": "Đầy đủ chức năng",
+        "choice2": "Dễ bảo trì",
+        "choice3": "Tin cậy",
+        "choice4": "Dễ sử dụng",
+        "answer": 2
+    },
+
+    {
+        "question": "Độ đo nào phản ánh khả năng đưa ra kết quả trong một thời gian xử lý và một tốc độ thông lượng hợp lý của hệ thống phần mềm?",
+        "choice1": "Đầy đủ chức năng",
+        "choice2": "Tính hiệu quả",
+        "choice3": "Tin cậy",
+        "choice4": "Dễ sử dụng",
+        "answer": 2
+    },
+
+    {"question":"Độ đo nào phản ánh khả năng có thể cung cấp một tập các chức năng thích hợp cho công việc cụ thể phục vụ mục đích của người sử dụng?",
+        "choice1":"Tính hiệu quả","choice2":"Tin cậy","choice3":"Đầy đủ chức năng","choice4":"Dễ sử dụng","answer":3}
+    ,{"question":"Độ đo nào phản ánh khả năng có thể thích nghi với nhiều môi trường khác nhau mà không cần phải thay đổi phần mềm?","choice1":"Tính hiệu quả","choice2":"Tin cậy","choice3":"Dễ sử dụng","choice4":"Tính khả chuyển","answer":4},{"question":"Phần mềm bị thay đổi/tiến hóa trong trường hợp nào?","choice1":"{T1}, {T2}, và {T3}","choice2":"Khi yêu cầu nghiệm vụ bị thay đổi","choice3":"Khi lỗi phát sinh","choice4":"Khi môi trường vận hành của phần mềm bị thay đổi","answer":1},{"question":"Phần mềm có thể bị thay đổi/tiến hóa trong giai đoạn nào?","choice1":"Bất cứ khi nào trong quá trình phát triển và vận hành","choice2":"Chỉ xảy ra trong quá trình phát triển","choice3":"Chỉ xảy ra trong quá trình vận hành bảo trì","choice4":"Chỉ xảy ra trong quá trình phân tích và đặc tả yêu cầu","answer":1},{"question":"Hoạt động ước lượng nào sau đây mà kết quả ước lượng được đo bằng KLOC hoặc số điểm chức năng (function points) của sản phẩm phần mềm?","choice1":"Ước lượng kích thước/kích cỡ của phần mềm","choice2":"Ước lượng thời gian hoàn thành","choice3":"Ước lượng số ngày công","choice4":"Ước lượng chi phí","answer":2},{"question":"Tài liệu nào được tạo ra bởi quá trình phân tích sau khi các yêu cầu đã được thu thập bởi các bên liên quan?","choice1":"Tài liệu thu thập yêu cầu","choice2":"Tài liệu nghiên cứu khả thi","choice3":"Tài liệu đặc tả yêu cầu","choice4":"Tài liệu thẩm định yêu cầu","answer":3},{"question":"Tài liệu nào được sử dụng như là một công cụ giao tiếp quan trọng nhất giữa các nhóm phát triển phần mềm?","choice1":"Tài liệu hướng dẫn sử dụng","choice2":"Tài liệu đặc tả yêu cầu","choice3":"Tài liệu thiết kế","choice4":"Tài liệu kiểm thử","answer":2},{"question":"Đặc trưng nào được sử dụng để quyết định phạm vi của phần mềm?","choice1":"Hiệu năng hệ thống","choice2":"Ngữ cảnh bài toán","choice3":"Mục tiêu, chức năng và hiệu năng hệ thống","choice4":"Không có đáp án nào là đúng","answer":3},{"question":"Đâu là mục tiêu chính của kỹ nghệ phần mềm (SE)?","choice1":"Phần mềm có độ tin cậy cao, thời gian phát triển nhanh và chi phí hợp lý","choice2":"Phần mềm có độ tin cậy cao","choice3":"Phần mềm có chi phí hợp lý","choice4":"Phần mềm có chất lượng cao, thời gian phát triển nhanh và chi phí hợp lý","answer":4},{"question":"Chọn phát biểu đúng nhất về vòng đời phát triển phần mềm:","choice1":"Là quá trình phát triển phần mềm","choice2":"Là quá trình vận hành và bảo trì phần mềm","choice3":"Là quá trình tồn tại của phần mềm từ khi khách hàng có nhu cầu phát triển đến khi nó bị bỏ đi","choice4":"Là quá trình phân tích thiết kế phần mềm","answer":3},{"question":"Một dự án phát triển phầm mềm là thất bại khi:","choice1":"Không đủ tính năng hoặc đủ nhưng khó sử dụng","choice2":"{T1} hoặc {T2} hoặc {T3}","choice3":"Vượt quá kinh phí dự kiến","choice4":"Vượt quá thời gian dự kiến","answer":2}
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "question": "Giả sử ta đã thực thi/chạy bộ kiểm tử T trên P và thu được kết quả kiểm thử với tất cả các ca kiểm thử đều thành công (all passed). Chọn kết luận đúng trong các kết luận sau:",
+        "choice1": "P không còn lỗi",
+        "choice2": "P không còn lỗi với bộ kiểm thử T",
+        "choice3": "Bộ kiểm thử T không phát hiện được lỗi của P",
+        "choice4": "{T2} và {T3}",
+        "answer": 4
+    },
+
+    {      
+        "question": "Đâu là giai đoạn quyết định khả năng phát hiện lỗi của quá trình kiểm thử",
+        "choice1": "Sinh các ca kiểm thử",
+        "choice2": "Thực thi các ca kiểm thử",
+        "choice3": "Lập báo cáo kiểm thử",
+        "choice4": "Không có đáp án đúng",
+        "answer": 1
+    },
+
+    {
+        "question": "Sự khác nhau giữa kiểm thử hộp đen và kiểm thử hộp trắng là gì?",
+        "choice1": "Hộp đen là chức năng; hộp trắng là phi chức năng",
+        "choice2": "Hộp đen là chức năng; hộp trắng là cấu trúc",
+        "choice3": "Hộp đen có chiều rộng lớn hơn hộp trắng",
+        "choice4": "Hộp đen chỉ có thể được thực hiện sau hộp trắng",
+        "answer": 2
+    },
+
+    {
+        "question": "Chiến lược kiểm thử nào sử dụng đặc tả yêu cầu để sinh các ca kiểm thử?",
+        "choice1": "Kiểm thử hộp trắng",
+        "choice2": "Kiểm thử hộp xám",
+        "choice3": "Kiểm thử chấp nhận",
+        "choice4": "Kiểm thử hộp đen",
+        "answer": 4
+    },
+
+    {
+        "question": "Chiến lược kiểm thử nào sử dụng mã nguồn để sinh các ca kiểm thử?",
+        "choice1": "Kiểm thử hộp trắng",
+        "choice2": "Kiểm thử hộp đen",
+        "choice3": "Kiểm thử hộp xám",
+        "choice4": "Kiểm thử chấp nhận",
+        "answer": 1
+    },
+
+    {
+        "question": "Mục tiêu chính của kiểm thử chấp nhận là: ",
+        "choice1": "Tìm lỗi trong hệ thống",
+        "choice2": "Đảm bảo rằng hệ thống có thể chấp nhận được đối với tất cả người dùng",
+        "choice3": "Kiểm thử hệ thống tương thích với các hệ thống khác",
+        "choice4": "Kiểm thử một quan điểm công việc",
+        "answer": 2
+    },
+
+    {
+        "question": "Sự khác biệt giữa kiểm thử lại và kiểm thử hồi quy là:",
+        "choice1": "Kiểm thử lại được thực hiện bởi các nhà phát triển; kiểm thử hồi quy được thực hiện bởi những người kiểm thử độc lập",
+        "choice2": "Kiểm thử lại sẽ tìm ra các kết quả bất ngờ; kiểm thử hồi quy là lặp lại những ca kiểm thử",
+        "choice3": "Kiểm thư lại là chạy lại các ca kiểm thử; Kiểm thử hồi quy là kiểm thử lại hệ thống khi nó bị thay đổi",
+        "choice4": "Kiểm thử lại được thực hiện sau khi sửa lỗi; kiểm thử hồi quy được thực hiện sớm hơn",
+        "answer": 3
+    },
+
+    {
+        "question": "… bao gồm cả hai tính năng kiểm thử hộp đen và kiểm thử hộp trắng",
+        "choice1": "Kiểm thử hệ thống",
+        "choice2": "Kiểm thử chấp nhận",
+        "choice3": "Kiểm thử lai ",
+        "choice4": "Kiểm thử hộp xám",
+        "answer": 4
+    },
+
+    {
+        "question": "Những mức độ kiểm thử nào thường được dùng trong mô hình chữ V?",
+        "choice1": "Kiểm tra gia tăng, kiểm tra toàn diện, kiểm tra thăm dò và kiểm tra dữ liệu",
+        "choice2": "Kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống và kiểm thử chấp nhận",
+        "choice3": "Kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận và kiểm thủ hồi quy",
+        "choice4": "Kiểm thử Alpha, kiểm thử Beta, kiểm thử hộp đen và kiểm thử hộp trắng",
+        "answer": 2
+    },
+
+    {
+        "question": "Hoạt động nào sau đây không cần thực thi/chạy chương trình?",
+        "choice1": "Kiểm thử chức năng",
+        "choice2": "Kiểm thử cấu trúc",
+        "choice3": "Code review",
+        "choice4": "Kiểm thử hiệu năng ",
+        "answer": 3
+    },
+
+    {
+        "question": "Kiểm thử các yêu cầu phi chức năng bao gồm:",
+        "choice1": "Kiểm thử để xem liệu hệ thống có hoạt động đúng chức năng hay không",
+        "choice2": "Kiểm thử các thuộc tính của hệ thống bao gồm hiệu năng, khả năng chịu tải, tính dễ dùng, …",
+        "choice3": "Kiểm thử các chức năng có thể không tồn tại",
+        "choice4": "Kiểm thử độ tin cậy của hệ thống",
+        "answer": 2
+    },
+    {
+        "question": "Đâu là các hoạt động chính của kiểm thử hệ thống?",
+        "choice1": "Kiểm thử chức năng hệ thống",
+        "choice2": "Kiểm thử tính dễ sử dụng",
+        "choice3": "Kiểm thử các thuộc tính của hệ thống bao gồm hiệu năng, khả năng chịu tải, tính dễ dùng, …",
+        "choice4": "{T1}, {T2} và {T3}",
+        "answer": 4
+    },
+    {
+        "question": "Chọn khẳng định đúng trong các khẳng định sau:",
+        "choice1": "Kiểm thử hộp đen chỉ có khả năng phát hiện các lỗi được đặc tả mà không được cài đặt và lỗi cài đặt sai so với đặc tả",
+        "choice2": "Kiểm thử hộp đen là đủ để phát hiện các lỗi",
+        "choice3": "Kiểm thử hộp đen chỉ có khả năng phát hiện các lỗi không được đặc tả mà được cài đặt và lỗi cài đặt sai so với đặc tả",
+        "choice4": "Kiểm thử hộp đen sinh các ca kiểm thử từ mã nguồn",
+        "answer": 1
+    },
+    {
+        "question": "Chọn khẳng định đúng trong các khẳng định sau:",
+        "choice1": "Kiểm thử hộp trắng là đủ để phát hiện các lỗi",
+        "choice2": "Kiểm thử hộp trắng chỉ có khả năng phát hiện các lỗi không được đặc tả mà được cài đặt và lỗi cài đặt sai so với đặc tả",
+        "choice3": "Kiểm thử hộp trắng chỉ có khả năng phát hiện các lỗi được đặc tả mà không được cài đặt và lỗi cài đặt sai so với đặc tả",
+        "choice4": "Kiểm thử hộp trắng sinh các ca kiểm thử từ đặc tả",
+        "answer": 2
+    },
+    {
+        "question": "Chọn khẳng định đúng trong các khẳng định sau:",
+        "choice1": "Kiểm thử hộp đen có khả năng phát hiện lỗi tốt hơn kiểm thử hộp trắng",
+        "choice2": "Kiểm thử hộp trắng có khả năng phát hiện lỗi tốt hơn kiểm thử hộp đen",
+        "choice3": "Chỉ cần một trong hai (kiểm thử hộp trắng hoặc kiểm thử hộp đen) là đủ",
+        "choice4": "Cả kiểm thử hộp đen và hộp trắng đều cần thiết và không thay thế cho nhau",
+        "answer": 4
+    },
+    {
+        "question": "Khi nói đến một phần mềm không đáp ứng yêu cầu, chúng ta phải hiểu là nó không đáp ứng với …",
+        "choice1": "Thiết kế",
+        "choice2": "Đặc tả yêu cầu",
+        "choice3": "Mong muốn của khách hàng",
+        "choice4": "Mong muốn của người phát triển",
+        "answer": 2
+    },
+    {
+        "question": "........ là một sản phẩm hoặc dịch vụ, hoặc các phần cứng được tạo ra hoặc cung cấp từ dự án.",
+        "choice1": "Sản phẩm chuyển giao",
+        "choice2": "Gói công việc",
+        "choice3": "Tài liệu của dự án",
+        "choice4": "Các sản phẩm sinh ra từ dự án",
+        "answer": 1
+    },
+    {
+        "question": "Mục tiêu của kiểm chứng (verification) là:",
+        "choice1": "Kiểm tra sản phẩm có được cài đặt đúng với đặc tả yêu cầu không",
+        "choice2": "Kiểm tra sản phẩm có được cài đặt đúng với thiết kế không",
+        "choice3": "Kiểm tra sản phẩm có đáp ứng với mong muốn của người dùng hay không",
+        "choice4": "Kiểm tra sản phẩm có dễ sử dụng không",
+        "answer": 2
+    },
+    {
+        "question": "Mục tiêu của thẩm định (validation) là:",
+        "choice1": "Kiểm tra sản phẩm có được cài đặt đúng với thiết kế không",
+        "choice2": "Kiểm tra sản phẩm có đáp ứng với mong muốn của người dùng hay không",
+        "choice3": "Kiểm tra sản phẩm có đáp ứng yêu cầu của người dùng hay không",
+        "choice4": "Kiểm tra sản phẩm có dễ sử dụng không",
+        "answer": 3
+    },
+    {
+        "question": "V&V viết tắt của:",
+        "choice1": "Variant and Version",
+        "choice2": "Version and Variant",
+        "choice3": "Verification and Validation",
+        "choice4": "Validation and Verification ",
+        "answer": 3
+    },
+
+    {
+        "question": "Chọn phát biểu đúng về khái niệm chất lượng phần mềm.",
+        "choice1": "Là độ đo về tính dễ sử dụng của phần mềm",
+        "choice2": "Là độ đo về sự thỏa mãn của phần mềm so với đặc tả yêu cầu",
+        "choice3": "Là độ đo về độ tin cậy của phần mềm",
+        "choice4": "Là độ đo về tính đầy đủ chức năng của phần mềm",
+        "answer": 2
+    },
+    {
+        "question": "Chọn phát biểu đúng về kiểm thử phần mềm trong các phát biểu sau:",
+        "choice1": "Là hoạt động chủ chốt nhằm đánh giá chất lượng phần mềm",
+        "choice2": "Có thể chỉ ra lỗi nhưng không thể khẳng định phần mềm không còn lỗi",
+        "choice3": "Có mục tiêu phát hiện các lỗi/khiếm khuyết của phần mềm",
+        "choice4": "{T1}, {T2} và {T3}",
+        "answer": 4
+    },
+    {
+        "question": "Đâu là mô tả đúng về mỗi quan hệ giữa kiểm thử và gỡ lỗi (debugging)?",
+        "choice1": "Thực hiện việc kiểm thử, nếu phát hiện ra lỗi thì sử dụng bộ đầu vào của ca kiểm thử phát hiện ra lỗi để thực hiện việc gỡ lỗi.",
+        "choice2": "Kiểm thử là việc tìm lỗi trong khi gỡ lỗi là việc tìm nguyên nhân, vị trí lỗi. Vì vậy, chúng không có liên quan hệ gì.",
+        "choice3": "Gỡ lỗi giúp tìm ra lỗi và có thể sử dụng nó để thay thế kiểm thử.",
+        "choice4": "Gỡ lỗi giúp tìm ra vị trí của lỗi nhằm giúp cho kiểm thử có thể sinh các ca kiểm thử có khả năng phát hiện lỗi cao hơn.",
+        "answer": 1
+    },
+    {
+        "question": "Hai giai đoạn chính trong quá trình kiểm thử phần mềm gồm:",
+        "choice1": "Thực thi/chạy các ca kiểm thử và báo cáo kết quả kiểm thử",
+        "choice2": "Sinh các ca kiểm thử (bộ kiểm thử) và thực thi/chạy các ca kiểm thử",
+        "choice3": "Thu thập yêu cầu kiểm thử và sinh các ca kiểm thử",
+        "choice4": "Sinh các ca kiểm thử (bộ kiểm thử) và báo cáo kết quả kiểm thử",
+        "answer": 2
+    },
+    {
+        "question": "Quá trình kiểm thử sẽ dừng lại khi:",
+        "choice1": "Hết thời gian, hết ngân sách",
+        "choice2": "Đạt mức độ bao phủ mong muốn",
+        "choice3": "Chỉ cần một trong hai (kiểm thử hộp trắng hoặc kiểm thử hộp đen) là đủ",
+        "choice4": "{T1} hoặc {T2} hoặc {T3}",
+        "answer": 4
+    },
+    {
+        "question": "Cơ sở để kỹ thuật phân tích giá trị biên sử dụng để sinh các ca kiểm thử là:",
+        "choice1": "Các kỹ thuật kiểm thử hộp đen còn lại không kiểm tra được các giá trị đặc biệt ",
+        "choice2": "Lỗi hay xảy ra tại các giá trị biên và cận biên",
+        "choice3": "Lập trình viên thường xuyên mắc lỗi",
+        "choice4": "Luôn có lỗi trong mã nguồn",
+        "answer": 2
+    },
+    {
+        "question": "Đâu không là kỹ thuật kiểm thử hộp đen?",
+        "choice1": "Kiểm thử dòng điều khiển",
+        "choice2": "Kiểm thử dựa trên phân hoạch tương đương",
+        "choice3": "Kiểm thử dựa trên phân tích giá trị biên",
+        "choice4": "Kiểm thử dựa trên bảng quyết định",
+        "answer": 1
+    },
+    {
+        "question": "Chọn phát biểu đúng:",
+        "choice1": "Phân hoạch tương đương sẽ tốt hơn bảng quyết định nếu các đầu vào phụ thuộc lẫn nhau",
+        "choice2": "Bảng quyết định sẽ tốt hơn phân hoạch tương đương nếu các đầu vào phụ thuộc lẫn nhau.",
+        "choice3": "Mỗi kỹ thuật có một thiên chức riêng nên không thể so sánh được",
+        "choice4": "Hai kỹ thuật này tương đương nhau",
+        "answer": 2
+    },
+    {
+        "question": "Chọn phát biểu đúng:",
+        "choice1": "Phân tích giá trị biên và bảng quyết định không thay thế lẫn nhau được",
+        "choice2": "Phân tích giá trị biên và phân hoạch tương đương không thay thế lẫn nhau được",
+        "choice3": "Nên kết hợp phân tích giá trị biên với bảng quyết định hoặc phân hoạch tương đương",
+        "choice4": "{T1}, {T2} và {T3}",
+        "answer": 4
+    }
+]

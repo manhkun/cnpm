@@ -1,0 +1,164 @@
+[
+    {
+        "question": "Đâu không là lợi ích của việc quản lý dự án tốt?",
+        "choice1": "Tinh thần làm việc của các thành viên cao",
+        "choice2": "Vốn đầu tư thấp",
+        "choice3": "Lợi nhuận thu được cao",
+        "choice4": "Thời gian phát triển ngắn",
+        "answer": 2
+    },
+
+    {      
+        "question": "Đâu không là thuộc tính của một dự án?",
+        "choice1": "Dự án có ít yếu tố không rõ ràng",
+        "choice2": "Mỗi dự án là duy nhất",
+        "choice3": "Dự án được triển khai bằng một quy trình công phu",
+        "choice4": "Dự án có một nhà đầu tư chính",
+        "answer": 1
+    },
+
+    {
+        "question": "Đâu không là một trong ba ràng buộc của quản lý dự án?",
+        "choice1": "Phạm vi dự án",
+        "choice2": "Chi phí",
+        "choice3": "Thời gian",
+        "choice4": "Giao tiếp",
+        "answer": 4
+    },
+
+    {
+        "question": "Đâu không là một trong mười kỹ năng hàng đầu của một quản lý dự án giỏi?",
+        "choice1": "Quyết đoán, đáng tin cậy",
+        "choice2": "Kỹ năng lãnh đạo",
+        "choice3": "Thành thạo công nghệ",
+        "choice4": "Kỹ năng quản lý nhân sự",
+        "answer": 3
+    },
+
+    {
+        "question": "Đâu là đặc trưng của một sản phẩm phần mềm?",
+        "choice1": "không được phát triển theo khuôn mẫu có sẵn",
+        "choice2": "không bị thoái hóa như phần cứng và các thiết bị vật lý khác",
+        "choice3": "phức tạp, vô hình, được phát triển theo nhóm và thường xuyên bị thay đổi",
+        "choice4": "{T1}, {T2}, và {T3}",
+        "answer": 4 
+    },
+
+    {
+        "question": "… đề cập tới tất cả các công việc để tạo ra sản phẩm của dự án và các quy trình để tạo ra chúng.",
+        "choice1": "Các sản phẩm cần đạt được",
+        "choice2": "Phạm vi của dự án",
+        "choice3": "Các mốc thời gian quan trọng",
+        "choice4": "Quy trình phát triển",
+        "answer": 2
+    },
+
+    {
+        "question": "… là tập các công việc được tổ chức theo cấu trúc phân cấp sao cho khi thực hiện chúng thì đạt được mục tiêu của dự án.",
+        "choice1": "Định nghĩa phạm vi dự án",
+        "choice2": "Từ điển WBS",
+        "choice3": "Tập hợp các công việc",
+        "choice4": "WBS",
+        "answer": 4
+    },
+
+    {
+        "question": "Việc lựa chọn mô hình tiến trình dựa trên:",
+        "choice1": "Kích cỡ dự án",
+        "choice2": "Tài nguyên dự án",
+        "choice3": "Ràng buộc dự án về vốn đầu tư và thời gian",
+        "choice4": "{T1}, {T2} và {T3}",
+        "answer": 4
+    },
+
+    {
+        "question": "Cách tiếp cận nào để xây dựng WBS bằng cách viết ra/vẽ ra tất cả các ý tưởng liên quan một cách không có cấu trúc/không có thứ tự.",
+        "choice1": "Top-down",
+        "choice2": "Mind mapping",
+        "choice3": "Bottom-up",
+        "choice4": "Analogy",
+        "answer": 2
+    },
+
+    {
+        "question": "Đâu không là giải pháp khả thi nhất trong việc hạn chế các vấn đề liên quan đến phạm vi của dự án CNTT?",
+        "choice1": "Cố gắng xác định phạm vi cụ thể/rõ ràng nhất có thể",
+        "choice2": "Sử dụng các phần cứng và phần mềm thương mại hóa khi có thể",
+        "choice3": "Hạn chế sự liên quan đến nhiều người dùng/khách hàng trong quản lý phạm vi",
+        "choice4": "Tuân theo các quy trình tốt về quản lý dự án",
+        "answer": 3
+    },
+
+    {
+        "question": "Đâu không là một giải pháp để xác định chính xác đầu vào của hệ thống?",
+        "choice1": "Phát triển một quy trình tốt để lựa chọn dự án",
+        "choice2": "Chỉ họp nếu cần thiết, không cần quá thường xuyên và định kỳ",
+        "choice3": "Huy động khách hàng tham gia vào đội dự án",
+        "choice4": "Gắn chặt mối quan hệ giữa khách hàng và người phát triển",
+        "answer": 2
+    },
+    {
+        "question": "Các phần mềm hỗ trợ quản lý dự án giúp bạn phát triển một ……….., làm tiền đề cho việc tạo các biểu đồ Gantt, xác định nguồn lực và phân bổ chi phí.",
+        "choice1": "Sản phẩm",
+        "choice2": "kế hoạch dự án",
+        "choice3": "WBS",
+        "choice4": "Lịch trình dự án",
+        "answer": 3
+    },
+    {
+        "question": "Đâu là mục tiêu chính của quá trình quản lý chi phí dự án?",
+        "choice1": "để đảm bảo tiền đầu tư của doanh nghiệp/tổ chức được sử dụng hiệu quả",
+        "choice2": "để hoàn thành dự án với chi phí nhỏ nhất có thể",
+        "choice3": "để hoàn thành dự án với chi phí trong định mức đã được phê duyệt",
+        "choice4": "để cung cấp chân thực và chính xác thông tin về chi phí của dự án",
+        "answer": 1
+    },
+    {
+        "question": "… là một yếu tố không biết trước mà khi nó xảy ra thì có thể ảnh hưởng tiêu cực hoặc tích cực đến việc hoàn thành các mục tiêu của dự án.",
+        "choice1": "Mặt tích cực của rủi ro",
+        "choice2": "Rủi ro",
+        "choice3": "Quản lý rủi ro",
+        "choice4": "Phân tích rủi ro",
+        "answer": 2
+    },
+    {
+        "question": "Quy trình quản lý rủi ro nào sau đây liên quan đến việc xếp hạng ưu tiên các rủi ro dựa trên xác suất xảy ra và tác hại của chúng?",
+        "choice1": "Lập kế hoạch quản lý rủi ro",
+        "choice2": "thực hiện việc phân tích định lượng rủi ro (quantitative risk analysis)",
+        "choice3": "Xác định danh sách các rủi ro",
+        "choice4": "thực hiện việc phân tích định tính rủi ro (qualitative risk analysis)",
+        "answer": 4
+    },
+    {
+        "question": "Nhóm dự án đã quyết định không sử dụng phiên bản sắp được phát hành của sản phẩm vì sợ lịch trình của dự án bị chậm tiến độ. Chiến lược phòng chống rủi ro nào sau đây đang được nhóm dự án sử dụng?",
+        "choice1": "Giảm nhẹ rủi ro (Mitigation)",
+        "choice2": "Phòng tránh rủi ro (Avoidance)",
+        "choice3": "Chấp nhận rủi ro (Acceptance)",
+        "choice4": "Chuyển rủi ro cho bên bên thứ 3 (Transference)",
+        "answer": 2
+    },
+    {
+        "question": "........ là một sản phẩm hoặc dịch vụ, hoặc các phần cứng được tạo ra hoặc cung cấp từ dự án.",
+        "choice1": "Sản phẩm chuyển giao",
+        "choice2": "Gói công việc",
+        "choice3": "Tài liệu của dự án",
+        "choice4": "Các sản phẩm sinh ra từ dự án",
+        "answer": 1
+    },
+    {
+        "question": "Bản chất của các dự án công nghệ thông tin thường khác biệt so với các dự án trong các lĩnh vực khác bởi vì chúng rất là ........",
+        "choice1": "Đòi hỏi kỹ thuật cao",
+        "choice2": "Đa dạng và phức tạp",
+        "choice3": "Đắt đỏ",
+        "choice4": "Thách thức",
+        "answer": 2
+    },
+    {
+        "question": "Tiến trình nào sau đây không phải là một phần của khâu quản lý tích hợp dự án (project integration management)?",
+        "choice1": "Xây dựng điều lệ/hiến chương dự án (project charter)",
+        "choice2": "Xây dựng kế hoạch quản lý dự án",
+        "choice3": "Xác định nghiệp vụ dự án",
+        "choice4": "Xây dựng kế hoạch quản lý rủi ro",
+        "answer": 3
+    }
+]

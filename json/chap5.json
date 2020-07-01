@@ -1,0 +1,56 @@
+[    
+    {
+        "question": "Hoạt động nào dưới đây cho phép nắm bắt được các hạn chế của hệ thống phần mềm, xác định các vấn đề, các yêu cầu cần thay đổi cho hệ thống hiện thời, cũng như xác định các ảnh hưởng của dự án lên các cá nhân và tổ chức?",
+        "choice1": "Thiết kế phần mềm",
+        "choice2": "Nghiên cứu khả thi",
+        "choice3": "Đặc tả hệ thống",
+        "choice4": "Thu thập và khám phá yêu cầu",
+        "answer": 4
+    },
+
+    {
+        "question": "Tác nhân ca sử dụng luôn là con người, không phải là các thiết bị hệ thống:",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Kịch bản người dùng (user stories) cho phép mô tả đầy đủ nhu cầu của người dùng, bao gồm cả các yêu cầu phi chức năng, cho một bản tăng (an increment) của phần mềm:",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    },
+
+    {
+        "question": "Người liên quan (stakeholder) là bất kỳ những ai có trách nhiệm thanh toán các chi phí cho dự án khi hệ thống phần mềm được hoàn thành:",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 2
+    },
+
+    {
+        "question": "Đặc tả hệ thống mô tả _____:",
+        "choice1": "bản cài đặt của hệ thống",
+        "choice2": "các phần tử kiến trúc phần mềm",
+        "choice3": "thời gian cần thiết cho mô phỏng hệ thống",
+        "choice4": "chức năng, hiệu năng và các ràng buộc của hệ thống",
+        "answer": 4
+    },
+
+    {
+        "question": "Hoạt động nào sau đây không phải là mục tiêu của việc xây dựng mô hình yêu cầu?:",
+        "choice1": "Xác định một tập các yêu cầu phần mềm có thể được thẩm định",
+        "choice2": "Đưa ra giải pháp sơ bộ cho vấn đề đặt ra",
+        "choice3": "Mô tả các yêu cầu khách hàng",
+        "choice4": "Tạo lập một cơ sở cho thiết kế phần mềm",
+        "answer": 2
+    },
+
+    {
+        "question": "Người phát triển và khách hàng tạo ra các ca sử dụng để giúp cho đội phần mềm hiểu cách thức các lớp người dùng cuối sử dụng chức năng hệ thống:",
+        "choice1": "Đúng",
+        "choice2": "Sai",
+        "answer": 1
+    }
+]
